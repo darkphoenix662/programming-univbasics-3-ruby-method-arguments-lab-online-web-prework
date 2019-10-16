@@ -12,14 +12,14 @@ end
 
 introdution ("Sean")
 introduction_with_language ("Sean", "Ruby")
-introduction_with_language_optional (Sean, Ruby)
+introduction_with_language_optional ("Sean", "Ruby")
 
 
 
 
 
 
-"
+
 
 
 
