@@ -11,7 +11,7 @@ def introduction_with_language_optional (name, language)
 end
 
 introdution ("Sean")
-introduction_with_language ("Sean, Ruby)
+introduction_with_language ("Sean", "Ruby")
 introduction_with_language_optional (Sean, Ruby)
 
 
