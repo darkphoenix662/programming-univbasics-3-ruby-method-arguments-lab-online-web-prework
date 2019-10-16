@@ -66,10 +66,6 @@ introduction_with_language_optional (Sean, Ruby)
 
 
 
-
-
-
-
 # def introduction(name)
 #  puts "Hi, my name is #{name}."
 #end
